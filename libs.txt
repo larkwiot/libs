@@ -1,0 +1,38 @@
+Performance
+	Celero						https://github.com/DigitalInBlue/Celero
+	Coz							https://github.com/plasma-umass/coz
+
+Logging
+	spdlog						https://github.com/gabime/spdlog
+	plog						https://github.com/SergiusTheBest/plog
+
+Regex/Parsing/Matching
+	RE-flex						https://github.com/Genivia/RE-flex
+	simple_match				https://github.com/jbandela/simple_match
+	CTRE						https://github.com/hanickadot/compile-time-regular-expressions
+	bitpattern					https://github.com/lefticus/cpp_weekly
+	Pegtl						https://github.com/taocpp/PEGTL
+
+Building
+	Spack						https://github.com/spack/spack
+	Meson						https://mesonbuild.com
+	include-what-you-use		https://github.com/include-what-you-use/include-what-you-use
+
+Calculations
+	asmlib						https://www.agner.org/optimize/asmlib.zip
+	VCL							https://github.com/vectorclass/version2
+	Dragonbox					https://github.com/jk-jeon/dragonbox
+	functionalplus				https://github.com/Dobiasd/FunctionalPlus
+	cpp-lazy					https://github.com/MarcDirven/cpp-lazy
+
+Parallelism
+	Taskflow					https://github.com/taskflow/taskflow
+	libcds						https://github.com/khizmax/libcds
+
+Misc
+	CPR							https://github.com/whoshuu/cpr
+	memory-allocators			https://github.com/mtrebi/memory-allocators
+	Yas							https://github.com/niXman/yas
+	Yomm2						https://github.com/jll63/yomm2
+	magic_enum					https://github.com/Neargye/magic_enum
+	argparse					https://github.com/p-ranav/argparse

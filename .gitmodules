@@ -1,0 +1,69 @@
+[submodule "https:/github.com/plasma-umass/coz"]
+	path = https:/github.com/plasma-umass/coz
+	url = https://github.com/DigitalInBlue/Celero
+[submodule "Celero"]
+	path = Celero
+	url = https://github.com/DigitalInBlue/Celero
+[submodule "spdlog"]
+	path = spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "plog"]
+	path = plog
+	url = https://github.com/SergiusTheBest/plog
+[submodule "RE-flex"]
+	path = RE-flex
+	url = https://github.com/Genivia/RE-flex
+[submodule "simple_match"]
+	path = simple_match
+	url = https://github.com/jbandela/simple_match
+[submodule "compile-time-regular-expressions"]
+	path = compile-time-regular-expressions
+	url = https://github.com/hanickadot/compile-time-regular-expressions
+[submodule "cpp_weekly"]
+	path = cpp_weekly
+	url = https://github.com/lefticus/cpp_weekly
+[submodule "PEGTL"]
+	path = PEGTL
+	url = https://github.com/taocpp/PEGTL
+[submodule "spack"]
+	path = spack
+	url = https://github.com/spack/spack
+[submodule "include-what-you-use"]
+	path = include-what-you-use
+	url = https://github.com/include-what-you-use/include-what-you-use
+[submodule "version2"]
+	path = version2
+	url = https://github.com/vectorclass/version2
+[submodule "dragonbox"]
+	path = dragonbox
+	url = https://github.com/jk-jeon/dragonbox
+[submodule "FunctionalPlus"]
+	path = FunctionalPlus
+	url = https://github.com/Dobiasd/FunctionalPlus
+[submodule "cpp-lazy"]
+	path = cpp-lazy
+	url = https://github.com/MarcDirven/cpp-lazy
+[submodule "taskflow"]
+	path = taskflow
+	url = https://github.com/taskflow/taskflow
+[submodule "libcds"]
+	path = libcds
+	url = https://github.com/khizmax/libcds
+[submodule "cpr"]
+	path = cpr
+	url = https://github.com/whoshuu/cpr
+[submodule "memory-allocators"]
+	path = memory-allocators
+	url = https://github.com/mtrebi/memory-allocators
+[submodule "yas"]
+	path = yas
+	url = https://github.com/niXman/yas
+[submodule "yomm2"]
+	path = yomm2
+	url = https://github.com/jll63/yomm2
+[submodule "magic_enum"]
+	path = magic_enum
+	url = https://github.com/Neargye/magic_enum
+[submodule "argparse"]
+	path = argparse
+	url = https://github.com/p-ranav/argparse

@@ -4,9 +4,6 @@
 [submodule "spdlog"]
 	path = spdlog
 	url = https://github.com/gabime/spdlog
-[submodule "plog"]
-	path = plog
-	url = https://github.com/SergiusTheBest/plog
 [submodule "RE-flex"]
 	path = RE-flex
 	url = https://github.com/Genivia/RE-flex

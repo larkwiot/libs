@@ -1,6 +1,3 @@
-[submodule "https:/github.com/plasma-umass/coz"]
-	path = https:/github.com/plasma-umass/coz
-	url = https://github.com/DigitalInBlue/Celero
 [submodule "Celero"]
 	path = Celero
 	url = https://github.com/DigitalInBlue/Celero

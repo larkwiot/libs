@@ -64,3 +64,21 @@
 [submodule "coz"]
 	path = coz
 	url = https://github.com/plasma-umass/coz
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/taocpp/tuple
+[submodule "json"]
+	path = json
+	url = https://github.com/taocpp/json
+[submodule "sequences"]
+	path = sequences
+	url = https://github.com/taocpp/sequences
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "pistache"]
+	path = pistache
+	url = https://github.com/pistacheio/pistache
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/onqtam/doctest

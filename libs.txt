@@ -2,9 +2,10 @@ Performance
 	Celero						https://github.com/DigitalInBlue/Celero
 	Coz							https://github.com/plasma-umass/coz
 
-Logging
+Logging/Testing
 	spdlog						https://github.com/gabime/spdlog
-	plog						https://github.com/SergiusTheBest/plog
+	doctest						https://github.com/onqtam/doctest
+	
 
 Regex/Parsing/Matching
 	RE-flex						https://github.com/Genivia/RE-flex
@@ -24,15 +25,22 @@ Calculations
 	Dragonbox					https://github.com/jk-jeon/dragonbox
 	functionalplus				https://github.com/Dobiasd/FunctionalPlus
 	cpp-lazy					https://github.com/MarcDirven/cpp-lazy
+	taocpp sequences			https://github.com/taocpp/sequences
 
 Parallelism
 	Taskflow					https://github.com/taskflow/taskflow
 	libcds						https://github.com/khizmax/libcds
 
-Misc
+Interfacing
+	argparse					https://github.com/p-ranav/argparse
 	CPR							https://github.com/whoshuu/cpr
+	pistache					https://github.com/pistacheio/pistache
+	taocpp json					https://github.com/taocpp/json
+
+Misc
 	memory-allocators			https://github.com/mtrebi/memory-allocators
 	Yas							https://github.com/niXman/yas
 	Yomm2						https://github.com/jll63/yomm2
 	magic_enum					https://github.com/Neargye/magic_enum
-	argparse					https://github.com/p-ranav/argparse
+	taocpp tuple				https://github.com/taocpp/tuple
+	fmt							https://github.com/fmtlib/fmt

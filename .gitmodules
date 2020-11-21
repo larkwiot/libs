@@ -64,3 +64,6 @@
 [submodule "argparse"]
 	path = argparse
 	url = https://github.com/p-ranav/argparse
+[submodule "coz"]
+	path = coz
+	url = https://github.com/plasma-umass/coz

@@ -82,3 +82,6 @@
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/onqtam/doctest
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui
